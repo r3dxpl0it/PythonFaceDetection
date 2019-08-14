@@ -1,0 +1,4 @@
+opencv-python3
+pillow
+progress
+numpy
